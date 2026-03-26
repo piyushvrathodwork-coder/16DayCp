@@ -1,0 +1,11 @@
+A) https://codeforces.com/problemset/problem/1421/A
+
+— Bitwise OR, simple observations
+
+B) https://codeforces.com/problemset/problem/149/A
+
+— Greedy, sorting, accumulation
+
+C) https://codeforces.com/problemset/problem/766/B
+
+— Greedy + checking triangle condition

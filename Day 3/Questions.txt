@@ -1,0 +1,11 @@
+A) https://codeforces.com/problemset/problem/411/A
+
+ — Password Check
+
+B) https://codeforces.com/problemset/problem/26/A
+
+ — Almost Prime
+
+C) https://codeforces.com/problemset/problem/152/A
+
+ — Marks & Subjects (Successful Students)

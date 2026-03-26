@@ -1,0 +1,8 @@
+A) https://codeforces.com/problemset/problem/136/A
+— Presents (Topic: Arrays, Mapping)
+
+B) https://codeforces.com/problemset/problem/122/A
+— Lucky Division (Topic: Number Theory, Divisibility)
+
+C) https://codeforces.com/problemset/problem/903/C
+— Boxes Packing (Topic: Greedy, Frequency Counting)

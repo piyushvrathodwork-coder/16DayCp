@@ -1,0 +1,4 @@
+Day 09 Problem Set
+A) https://codeforces.com/problemset/problem/1469/B
+B) https://codeforces.com/problemset/problem/1697/B
+C) https://codeforces.com/problemset/problem/1709/B

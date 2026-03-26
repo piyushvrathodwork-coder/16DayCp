@@ -1,0 +1,8 @@
+A) https://codeforces.com/problemset/problem/339/A
+— Helpful Maths (Topics: Sorting, formatting output)
+
+B) https://codeforces.com/problemset/problem/584/A
+— Olesya and Rodion
+
+C) https://codeforces.com/problemset/problem/2120/B
+— Square Pool

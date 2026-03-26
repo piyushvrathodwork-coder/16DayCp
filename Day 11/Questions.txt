@@ -1,0 +1,8 @@
+A) https://codeforces.com/problemset/problem/1445/A
+— Sorting, Greedy.
+
+B) https://codeforces.com/problemset/problem/1720/A
+— Math, Number Theory.
+
+C) https://codeforces.com/problemset/problem/1805/A
+— XOR / Bit manipulation.
