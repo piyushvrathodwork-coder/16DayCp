@@ -1,0 +1,7 @@
+Day 8 Ques:
+A) https://codeforces.com/problemset/problem/2137/A
+- Collatz Conjecture(Topics: constructive algorithms, math)
+B) https://codeforces.com/problemset/problem/2106/B
+- St. Chroma(Topics: MEX, constructive algorithms, math, greedy)
+C) https://codeforces.com/problemset/problem/2057/A
+- MEX Table(Topics: MEX , constructive algorithms, math)

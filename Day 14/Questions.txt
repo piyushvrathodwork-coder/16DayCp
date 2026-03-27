@@ -1,0 +1,8 @@
+A) https://codeforces.com/problemset/problem/1567/B
+— Bitwise, precomputation, XOR.
+
+B) https://codeforces.com/problemset/problem/1765/M
+— Math, Number Theory.
+
+C) https://codeforces.com/problemset/problem/1691/B
+— Greedy, 2 pointers.
