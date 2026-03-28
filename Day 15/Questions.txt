@@ -1,0 +1,5 @@
+A) https://codeforces.com/problemset/problem/488/A
+— Brute Force
+
+B) https://codeforces.com/problemset/problem/757/A
+— implementation
