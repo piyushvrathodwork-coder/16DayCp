@@ -10,7 +10,7 @@ int main(){
         b = 8;
         cout << 8 << endl;
     }else if(n > 0){
-        for(int i = 0; i<=10;i++){
+        for(int i = 0; i<=100;i++){
             int x = n;
             while(x > 0){
                 int c = x % 10;
@@ -24,7 +24,7 @@ int main(){
             b++;
         }
     }else{
-        for(int i = 0; i<=10;i++){
+        for(int i = 0; i<=100;i++){
             int nn = abs(n);
             while(nn > 0){
                 int c = nn % 10;
